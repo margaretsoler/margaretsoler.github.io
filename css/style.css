@@ -7,6 +7,25 @@ body, html {
 	width: 100% !important;
 	height: 100% !important;
 }
+
+@media (max-width: 767.98px) {
+	.sidemagggie {
+		transform: rotate(90deg);
+		position: top;
+
+	} 
+	@media (max-width: 2000px) {
+		.sidemaggie {
+			display: none;
+					} 
+	}
+	  @media (max-width: 1199.98px) {
+		main{ display: grid;
+			
+		} 
+	
+		}
+
 h1 {
 	color: #333;
 	font-size: 64px;
