@@ -21,7 +21,10 @@ body, html {
 	}
 	  @media (max-width: 1199.98px) {
 		main{ display: grid;
-			padding-right: 3%;
+			  scroll-padding: auto ;
+			  
+			
+			
 			
 		} 
 	
